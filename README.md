@@ -5,4 +5,4 @@ A PROFILE WEBSITE about what I do.
 ![Web View](./Assets/Webview.png)
 
 ## To View
-[Click here to view] (https://boluwatifeolusegun.github.io/Tife-portfolio/)
+[Click here to view webpage](https://boluwatifeolusegun.github.io/Tife-portfolio/)
